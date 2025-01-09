@@ -1,0 +1,40 @@
+.green{
+    background-color: green;
+    height: 7cm;
+    width: 60%;
+}
+
+.skyblue{
+    background-color: skyblue;
+    height: 7cm;
+    width: 30%;
+}
+
+.parentdiv{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1cm;
+  
+
+
+   /* padding: 0.4cm;
+   background-color: brown; */
+}
+.brown{
+    background-color: brown;
+    height: 4cm;
+    width: 100%;
+    margin-top: 1cm;
+
+}
+.div1,.div2,.div3{
+    background-color: rgb(229, 142, 142);
+    height: 4cm;
+    width: 33%;
+  
+}
+.row3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1cm;
+}
